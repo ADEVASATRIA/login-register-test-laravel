@@ -1,4 +1,11 @@
+# PICTURE OF DASHBOARD PAGE
+![THUMNAIL ](./thumnail1.png)
 
+# PICTURE OF LOGIN PAGE
+![THUMNAIL ](./thumnail2.png)
+
+# PICTURE OF SIGN UP PAGE
+![THUMNAIL ](./thumnail3.png)
 
 # REQUIREMENT 
     - Laravel >8
