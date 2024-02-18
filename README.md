@@ -9,8 +9,8 @@
  // For Create a Laravel Project
     $ composer create-project --prefer-dist laravel/laravel login-ad-registration
 
-# by duing that task on command create database using xampp and make [Your Database Name] and then 
-# After initialization project completes successfully input name of database in .env configuration and change database into [your database name].
+// By duing that task on command create database using xampp and make [Your Database Name] and then 
+// After initialization project completes successfully input name of database in .env configuration and change database into [your database name].
 
  // For Database or Models 
     //After edit user configuration in Laravel configuration
